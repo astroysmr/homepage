@@ -98,7 +98,7 @@ canonifyurls = true
         weight           = 0
         title            = "Yuki Yoshimura's web page"
         [languages.en.params]
-            description  = "Yuki Yoshimura ALMA astrochemistry astro"   # Max 160 characters show in search results
+            description  = "Yuki Yoshimura astroysmr astochemistry the University of Tokyo ALMA NRO JCMT LMT"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.ja]
@@ -106,7 +106,7 @@ canonifyurls = true
         languageCode     = "ja"
         contentDir       = "content/es"
         weight           = 1
-        title            = "吉村勇紀の個人ページ"
+        title            = "吉村勇紀のホームページ"
         [languages.ja.params]
-            description  = "Descripcion del sitio web"
+            description  = "東京大学大学院理学系研究科天文学専攻 博士課程 大学院生/日本学術振興会特別研究員DC1 吉村勇紀のホームページです。"
             # footerText   = ""
