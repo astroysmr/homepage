@@ -7,32 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://astroysmr.github.io/homepage/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>https://astroysmr.github.io/homepage/projects/photography/</link>
+      <title>ALCHEMI</title>
+      <link>https://astroysmr.github.io/homepage/projects/alchemi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroysmr.github.io/homepage/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>https://astroysmr.github.io/homepage/projects/alchemi/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://astroysmr.github.io/homepage/projects/design/</link>
+      <title>B4R/LMT</title>
+      <link>https://astroysmr.github.io/homepage/projects/b4r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroysmr.github.io/homepage/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>https://astroysmr.github.io/homepage/projects/b4r/</guid>
+      <description>Receivers on the world Largest Submillimeter Telescope B4R project B4R is a receiver system which consists of 2mm receiver and a dedicated digital spectrometer composed of 4 (-&amp;gt; 6) XFFTS boards, integrated on the Large Millimeter Telescope (LMT, 50m) at Mexico. I&amp;rsquo;m working on:
+ Development of data reduction pipeline (b4rpipe) On-site commissioning (Nov. 2019, 2021?) OTF observations toward Galactic objects   webpage: http://lmtgtm.org/b4r/
+LST project The 50m Large Submillimeter Telescope (LST) is a planned single-dish telescope, which is optimized for wide-area imaging and spectroscopic surveys in the 70-420 GHz frequency range.</description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://astroysmr.github.io/homepage/projects/writing/</link>
+      <title>ALCS</title>
+      <link>https://astroysmr.github.io/homepage/projects/alcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroysmr.github.io/homepage/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>https://astroysmr.github.io/homepage/projects/alcs/</guid>
+      <description> ALMA Lensing Cluster Survey H dropouts ASAGAO </description>
+    </item>
+    
+    <item>
+      <title>Molecular absorbers</title>
+      <link>https://astroysmr.github.io/homepage/projects/almaqal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://astroysmr.github.io/homepage/projects/almaqal/</guid>
+      <description></description>
     </item>
     
   </channel>

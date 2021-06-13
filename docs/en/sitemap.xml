@@ -2,41 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://astroysmr.github.io/homepage/projects/photography/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://astroysmr.github.io/homepage/ja/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astroysmr.github.io/homepage/projects/photography/"
-                />
+    <loc>https://astroysmr.github.io/homepage/projects/alchemi/</loc>
   </url><url>
-    <loc>https://astroysmr.github.io/homepage/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://astroysmr.github.io/homepage/ja/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astroysmr.github.io/homepage/projects/design/"
-                />
+    <loc>https://astroysmr.github.io/homepage/projects/b4r/</loc>
   </url><url>
-    <loc>https://astroysmr.github.io/homepage/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://astroysmr.github.io/homepage/ja/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://astroysmr.github.io/homepage/projects/writing/"
-                />
+    <loc>https://astroysmr.github.io/homepage/projects/alcs/</loc>
+  </url><url>
+    <loc>https://astroysmr.github.io/homepage/projects/almaqal/</loc>
   </url><url>
     <loc>https://astroysmr.github.io/homepage/projects/</loc>
     <xhtml:link
