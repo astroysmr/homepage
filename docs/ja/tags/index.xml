@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 吉村勇紀の個人ページ</title>
-    <link>http://example.com/ja/tags/</link>
+    <link>https://astroysmr.github.io/homepage/ja/tags/</link>
     <description>Recent content in Tags on 吉村勇紀の個人ページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate><atom:link href="http://example.com/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate><atom:link href="https://astroysmr.github.io/homepage/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ipsum</title>
-      <link>http://example.com/ja/tags/ipsum/</link>
+      <link>https://astroysmr.github.io/homepage/ja/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>http://example.com/ja/tags/ipsum/</guid>
+      <guid>https://astroysmr.github.io/homepage/ja/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>http://example.com/ja/tags/words/</link>
+      <link>https://astroysmr.github.io/homepage/ja/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>http://example.com/ja/tags/words/</guid>
+      <guid>https://astroysmr.github.io/homepage/ja/tags/words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>http://example.com/ja/tags/code/</link>
+      <link>https://astroysmr.github.io/homepage/ja/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>http://example.com/ja/tags/code/</guid>
+      <guid>https://astroysmr.github.io/homepage/ja/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coffee</title>
-      <link>http://example.com/ja/tags/coffee/</link>
+      <link>https://astroysmr.github.io/homepage/ja/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>http://example.com/ja/tags/coffee/</guid>
+      <guid>https://astroysmr.github.io/homepage/ja/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>http://example.com/ja/tags/images/</link>
+      <link>https://astroysmr.github.io/homepage/ja/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>http://example.com/ja/tags/images/</guid>
+      <guid>https://astroysmr.github.io/homepage/ja/tags/images/</guid>
       <description></description>
     </item>
     
