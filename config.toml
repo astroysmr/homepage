@@ -1,4 +1,4 @@
-baseURL                          = "https://astroysmr.github.io/homepage/"   # Your domain name. Must end with "/"
+baseURL                          = "https://astroysmr.github.io/homepage/docs/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
