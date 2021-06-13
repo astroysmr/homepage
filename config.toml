@@ -1,9 +1,9 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://astroysmr.github.io/homepage/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
-publishDir = "docs"
+#publishDir = "docs"
 canonifyurls = true
 
 [params]
