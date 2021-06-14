@@ -10,7 +10,7 @@ My research field is (sub-)millimeter astronomy.
 <br>
 I'm interested in interstellar chemistry especially in external galaxies.
 <br>
-Telscopes: ALMA, Nobeyama 45m, JCMT, LMT
+Telescopes: ALMA, Nobeyama 45m, JCMT, LMT
 
 ### Employment
 * Apr. 2020 --
